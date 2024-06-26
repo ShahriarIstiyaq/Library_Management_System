@@ -1,0 +1,21 @@
+5
+1
+Data Structures
+Seymour Lipschutz
+G V A PAI
+4
+The Grand Design
+Sthephen Hawking
+Bantam Books
+5
+Atomic Habit
+James Clear
+Penguin Random House
+10
+Educated
+Tara Westover
+Penguin Random House
+12
+The Dawn Of Everything
+David Graeber
+Farrar and Giroux
